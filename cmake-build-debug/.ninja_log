@@ -1,0 +1,5 @@
+# ninja log v6
+33	3395	7611586724547590	CMakeFiles/Mandelbrot.dir/main.c.obj	e50a89f3375e8eb0
+123	3643	7611586725437527	CMakeFiles/Mandelbrot.dir/Bitmap.c.obj	ea312a40665644df
+62	4299	7611586724847518	CMakeFiles/Mandelbrot.dir/NumerosComplejos.c.obj	9a439489601d9d83
+4299	8404	7611586767202003	Mandelbrot.exe	eee1753a37346ed0
