@@ -17,27 +17,5 @@ El código se divide en los siguientes módulos:
 - `Bitmap.h` y `Bitmap.c`: Manejo de archivos BMP, incluyendo creación, escritura y manipulación de píxeles.
 - `colourScale.h`: Definición de la escala de colores utilizada para la imagen.
 
-## Instalación y Ejecución
-### Prerrequisitos
-- Compilador de C (GCC recomendado)
-- Sistema operativo compatible con archivos BMP (Windows, Linux, MacOS)
 
-### Compilación
-Para compilar el programa, ejecutar el siguiente comando en la terminal:
-```bash
-gcc main.c Bitmap.c NumerosComplejos.c -o mandelbrot -lm
-```
-
-### Ejecución
-Ejecutar el binario generado:
-```bash
-./mandelbrot
-```
-Esto generará un archivo `gradiente.bmp` en el directorio de ejecución, que representará el conjunto de Mandelbrot.
-
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
-
-## Autores
-Desarrollado por [Tu Nombre]
 
